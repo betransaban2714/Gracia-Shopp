@@ -79,14 +79,3 @@ button:hover {
     color: #e91e63;
     margin-bottom: 20px;
 }
-
-footer {
-    background-color: #e91e63;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    font-size: 7px;
-}
